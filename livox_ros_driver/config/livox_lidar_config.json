@@ -21,10 +21,10 @@
     ],
 	
     "timesync_config": {
-        "enable_timesync": false,
+        "enable_timesync": true,
         "device_name": "/dev/ttyUSB0",
         "comm_device_type": 0,
-        "baudrate_index": 2,
+        "baudrate_index": 6,
         "parity_index": 0     
     }
 }
